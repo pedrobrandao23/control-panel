@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url(/assets/pexels-alex-conchillos-3745234.jpg);
+    background-image: url(./assets/pexels-alex-conchillos-3745234.jpg);
     background-repeat: repeat-y;
     background-size: 100% ;
 }
